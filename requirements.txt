@@ -1,0 +1,3 @@
+# live-writing 依赖（v1.10.0）
+# 核心检测器仅 Python 标准库 + jieba。无 jieba 时语义引擎（LW-INFODEN-001）静默跳过，其余功能不受影响。
+jieba>=0.42.1
